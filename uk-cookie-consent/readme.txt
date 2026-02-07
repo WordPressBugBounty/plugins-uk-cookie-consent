@@ -3,7 +3,7 @@ Contributors: termly, brandondove, jeffreyzinn
 Tags: GDPR, cookie banner, cookie consent, CCPA, privacy
 Requires at least: 5.2
 Requires PHP: 5.6
-Tested up to: 6.7.1
+Tested up to: 6.9
 Stable tag: 3.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
